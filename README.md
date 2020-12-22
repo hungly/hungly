@@ -24,4 +24,4 @@
 
 ## GitHub's stats
 
-<img align="left" alt="hungly" src="https://github-readme-stats-ten-mauve.vercel.app/api?username=hungly&count_private=true&show_icons=true&theme=dark&hide_border=ture"/>
+<img align="left" alt="hungly" src="https://github-readme-stats-ten-mauve.vercel.app/api?username=hungly&count_private=true&show_icons=true&theme=dark&hide_border=true"/><img align="left" alt="Top languages" src="https://github-readme-stats-ten-mauve.vercel.app/api/top-langs?username=hungly&&langs_count=8&layout=compact&theme=dark&hide_border=true"/>
