@@ -22,6 +22,17 @@
 
 ---
 
-## GitHub's stats
+## This week on coding
 
-<img align="left" alt="hungly" src="https://github-readme-stats-ten-mauve.vercel.app/api?username=hungly&count_private=true&show_icons=true&theme=dark&hide_border=true"/><img align="left" alt="Top languages" src="https://github-readme-stats-ten-mauve.vercel.app/api/top-langs?username=hungly&&langs_count=8&layout=compact&theme=dark&hide_border=true"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<details>
+
+<summary>⚡ GitHub's stats</summary>
+
+<img align="left" alt="hungly" src="https://github-readme-stats-ten-mauve.vercel.app/api?username=hungly&count_private=true&show_icons=true&theme=dark&hide_border=true"/>
+
+</details>
