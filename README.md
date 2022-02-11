@@ -8,7 +8,7 @@
 
 - 👯 I'm always looking for the opportunity to participate in new, excited projects
 
-- 🥅 2021 GOAL: participate in an open source project
+- 🥅 2022 GOAL: participate in an open source project
 
 - ⚡ Fun? fact: I LOVE playing video games
 
